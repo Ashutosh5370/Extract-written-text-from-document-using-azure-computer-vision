@@ -1,0 +1,1 @@
+# Extract-written-text-from-document-using-azure-computer-vision
